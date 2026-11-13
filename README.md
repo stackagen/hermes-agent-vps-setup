@@ -1,9 +1,12 @@
 # Hermes Agent on a VPS: every command
 
-The companion files for my video **How to Install Hermes Agent on a VPS, FAST!**
+[![Watch the video](https://img.youtube.com/vi/KQLWece-zpI/maxresdefault.jpg)](https://youtu.be/KQLWece-zpI)
+
+The companion files for my video **Install Hermes Agent on Any VPS, Fast (Runs 24/7)**.
 
 Six steps from a fresh Ubuntu server to a Hermes Agent you talk to on Telegram, that keeps running when your laptop is closed.
 
+- Video: [youtu.be/KQLWece-zpI](https://youtu.be/KQLWece-zpI)
 - Full written guide, with what every command means: [stackagen.com/guides/hermes-agent-vps-install](https://stackagen.com/guides/hermes-agent-vps-install)
 - Next step after the install: [Hermes Agent 7 levels setup](https://github.com/stackagen/hermes-agent-7-levels-setup)
 
